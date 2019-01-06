@@ -96,7 +96,7 @@ class SongsToLearnApp(App):  # Class refering to the Kivy app
                 learned_song += 1
                 button_color = self.getColor(learned)
             else:
-                button_color = self.getColor(learned)  # If the song is not learned, display Blue color
+                button_color = self.getColor(learned)
 
             temp_button = Button(text=display_text, id=song.title,
                                  background_color=button_color)  # Mark the song learned
