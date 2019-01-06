@@ -91,7 +91,6 @@ class SongsToLearnApp(App):  # Class refering to the Kivy app
                                                     learned)  # display what should be added to the widget
 
             if learned == "n":
-                # Condition when the song is learned, count the number of learned songs and format their background color (Velvet)
 
                 learned_song += 1
                 button_color = self.getColor(learned)
