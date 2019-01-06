@@ -3,7 +3,7 @@ Name: Le Minh
 Date: 6/1/2019
 Brief Project Description: This project will create a Graphical User Interface program based
 on the list of songs in assignment 1.
-GitHub URL: https://github.com/JCUS-CP1404/a2--jc474652
+GitHub URL: https://github.com/jc474652/leminhcp1404
 """
 
 from kivy.app import App
